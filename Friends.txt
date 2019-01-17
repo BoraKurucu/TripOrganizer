@@ -1,0 +1,4 @@
+kaan|bora|
+bora|kaan|
+kaan|özgün|
+özgün|kaan|

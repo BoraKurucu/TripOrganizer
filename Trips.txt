@@ -1,0 +1,9 @@
+kaan|Istanbul|
+kaan|Izmir|
+özgün|Izmir|
+null|Izmir|
+özgün|Ankara|
+özgün|Canakkale|
+null|Canakkale|
+özgün|Istanbul|
+özgün|Antalya|

@@ -1,0 +1,4 @@
+kaan|5110|male|13
+özgün|ç|female|19
+bora|15|male|20
+irem|1997|female|21
